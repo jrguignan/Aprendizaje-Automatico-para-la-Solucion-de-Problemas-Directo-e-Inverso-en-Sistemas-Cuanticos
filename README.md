@@ -75,9 +75,9 @@ Problemas directo e inverso, DFT, Métodos de kernel.
 1. Parr, R. G., & Yang, W. *Density-Functional Theory of Atoms and Molecules*. Oxford University Press (1989).  
 2. Ghosh, S. K., & Parr, R. G. *The Density-Potential Relationship in Density Functional Theory*. The Journal of Chemical Physics, 84(6), 3352–3356, (1986).  
 3. Jensen, D. S., & Wasserman, A. *Numerical methods for the inverse problem of density functional theory*. International Journal of Quantum Chemistry, 118(1), e25425, (2018). [https://doi.org/10.1002/qua.25425](https://doi.org/10.1002/qua.25425)
-4. Martinetto, V., Shah, K., Cangi, A., & Pribram-Jones, A. *Inverting the Kohn–Sham equations with physics-informed machine learning*. Machine Learning: Science and Technology, 5(1), 015050, (2024). doi:10.1088/2632-2153/ad3159  
-5. Huang, C., Johnson, E. R., Sun, J., & Perdew, J. P. *Exchange-correlation potential built on the derivative discontinuity of electron density*. Nature Communications, 10(1), 4467, (2019). https://doi.org/10.1038/s41467-019-12467-0  
-6. García, P. *Modeling systems with machine learning based differential equations*. Chaos, Solitons & Fractals, 165(Part 2), (2022). https://doi.org/10.1016/j.chaos.2022.112872
+4. Martinetto, V., Shah, K., Cangi, A., & Pribram-Jones, A. *Inverting the Kohn–Sham equations with physics-informed machine learning*. Machine Learning: Science and Technology, 5(1), 015050, (2024). [doi:10.1088/2632-2153/ad3159](doi:10.1088/2632-2153/ad3159)  
+5. Huang, C., Johnson, E. R., Sun, J., & Perdew, J. P. *Exchange-correlation potential built on the derivative discontinuity of electron density*. Nature Communications, 10(1), 4467, (2019). [https://doi.org/10.1038/s41467-019-12467-0](https://doi.org/10.1038/s41467-019-12467-0)  
+6. García, P. *Modeling systems with machine learning based differential equations*. Chaos, Solitons & Fractals, 165(Part 2), (2022). [https://doi.org/10.1016/j.chaos.2022.112872](https://doi.org/10.1016/j.chaos.2022.112872)
 
 [Volver al Índice](#Índice)
 
