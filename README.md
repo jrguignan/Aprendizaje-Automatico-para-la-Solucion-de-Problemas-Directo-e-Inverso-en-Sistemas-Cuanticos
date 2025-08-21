@@ -91,3 +91,6 @@ José R. Guignan
 - Mail: joserguignan@gmail.com
 - Linkedin: [https://www.linkedin.com/in/jrguignan/](https://www.linkedin.com/in/jrguignan)
 - Portafolio: [https://jrguignan.github.io/](https://jrguignan.github.io/)
+
+## Tutor
+Dr. Pedro García
