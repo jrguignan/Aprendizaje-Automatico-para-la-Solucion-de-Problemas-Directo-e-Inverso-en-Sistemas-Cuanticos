@@ -1,7 +1,7 @@
 # Aprendizaje automático para la solución de problemas directo e inverso en sistemas cuánticos
 
 <p align="center">
-<img src="images/banner.jpg"  height=300>
+<img src="images/banner.jpg"  height=310>
 </p>
 
 # Índice
